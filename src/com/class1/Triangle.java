@@ -14,7 +14,7 @@ public class Triangle extends Shape{
         side1=input.nextInt();
         System.out.println("Enter Side2: ");
         side2=input.nextInt();
-        System.out.println("Enter Side2: ");
+        System.out.println("Enter Side3: ");
         side3 = input.nextInt();
     }
 
